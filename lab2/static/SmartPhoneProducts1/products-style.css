@@ -5,7 +5,7 @@ h2 {text-align: center;}
 main { display: flex;
 flex-flow: row wrap;
 justify-content: space-around;
-background-image: url(./Images/phone_globe.jpeg);
+background-image: url("./Images/phone_globe.jpeg");
 background-repeat: no-repeat;
 color: white; }
 body > div {border: 5px solid black;
